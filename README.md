@@ -18,7 +18,7 @@ Disclaimer:
 No girlfriends/teachers.. where harmed during testing of the code.
 
 
-How to:
+How to:  
 1) Download DevC++ from here: http://www.bloodshed.net/ and refresh some of your basics of C++(need, if you are going to develop the code).  
 2) Go to File->New->Source File.  
 3) Now add your modifications and execute the program by selecting Execute->Run(ctrl+F10)  
